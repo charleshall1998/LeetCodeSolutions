@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{69D32703-D92D-4347-85A6-BAE1CA1823C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A3307540-0B93-42B1-AD37-515D4621E914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3307540-0B93-42B1-AD37-515D4621E914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3307540-0B93-42B1-AD37-515D4621E914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3307540-0B93-42B1-AD37-515D4621E914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3307540-0B93-42B1-AD37-515D4621E914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
