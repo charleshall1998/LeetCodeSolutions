@@ -1,4 +1,4 @@
-﻿using Palindrome_Number;
+﻿using PalindromeNumber;
 
 /**
  * Problem Statement:

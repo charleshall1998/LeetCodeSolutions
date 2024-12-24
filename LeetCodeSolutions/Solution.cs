@@ -1,4 +1,4 @@
-﻿namespace Palindrome_Number
+﻿namespace PalindromeNumber
 {
     public class Solution
     {

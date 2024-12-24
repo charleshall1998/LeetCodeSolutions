@@ -1,4 +1,4 @@
-﻿using _1._TwoSum;
+﻿using TwoSum;
 
 /**
  * Problem Statement:
