@@ -5,8 +5,6 @@ VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "LeetCodeSolutions\Palindrome Number.csproj", "{3ED5894F-7036-410C-954B-D16983E13FEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "1. TwoSum\TwoSum.csproj", "{5BF534CB-C7AB-4BF1-9706-EBAEA2AECE26}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{69D32703-D92D-4347-85A6-BAE1CA1823C1}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{3ED5894F-7036-410C-954B-D16983E13FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED5894F-7036-410C-954B-D16983E13FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED5894F-7036-410C-954B-D16983E13FEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BF534CB-C7AB-4BF1-9706-EBAEA2AECE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BF534CB-C7AB-4BF1-9706-EBAEA2AECE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BF534CB-C7AB-4BF1-9706-EBAEA2AECE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BF534CB-C7AB-4BF1-9706-EBAEA2AECE26}.Release|Any CPU.Build.0 = Release|Any CPU
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D32703-D92D-4347-85A6-BAE1CA1823C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
