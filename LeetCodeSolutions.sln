@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{27519E6D-E343-4B35-8FC7-972E649FB4C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIndexOfFirstOccurenceInString", "FindIndexOfFirstOccurenceInString\FindIndexOfFirstOccurenceInString.csproj", "{263C808A-F6B8-43CB-B506-CF7D13C969D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{27519E6D-E343-4B35-8FC7-972E649FB4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27519E6D-E343-4B35-8FC7-972E649FB4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27519E6D-E343-4B35-8FC7-972E649FB4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263C808A-F6B8-43CB-B506-CF7D13C969D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263C808A-F6B8-43CB-B506-CF7D13C969D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263C808A-F6B8-43CB-B506-CF7D13C969D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263C808A-F6B8-43CB-B506-CF7D13C969D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
